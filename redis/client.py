@@ -1,3 +1,4 @@
+#https://www.codetriage.com/andymccurdy/redis-py/badges/users.svg
 from __future__ import with_statement
 from itertools import chain
 import datetime
